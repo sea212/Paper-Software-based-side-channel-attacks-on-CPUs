@@ -1,6 +1,6 @@
 This repository contains a survey paper written by me:
 
-Title: Soware based side-channel aacks on CPUs - Their history and how we behaved
+Title: Software based side-channel attacks on CPUs - Their history and how we behaved
 
 Abstract: This paper focuses on presenting the chronological order of soft-
 ware based side-channel attacks on processors. This is achieved
